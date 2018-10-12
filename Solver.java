@@ -1,3 +1,4 @@
+//package
 package org.jgrapht.own;
 
 import java.io.FileInputStream;
